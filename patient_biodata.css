@@ -1,0 +1,36 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	background:#333;
+	font:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size:18px;
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+#main_page{
+	background-color: #CCC;
+	text-align:center;
+	margin: auto;
+	width: 75%;
+	padding: 10px;
+	border-style:ridge;
+}
+	
+h1{
+	text-align:center;
+	color:#333;
+	font-weight:bold;
+	background-color:#FFC;
+}
+form{
+	text-align:left;
+	width: 80%;
+	margin: 20px auto 50px auto;
+	padding: 0px;
+}
+
+.register{
+	float:right;
+}
+a, register: hover{
+	color:inherit;
+}
